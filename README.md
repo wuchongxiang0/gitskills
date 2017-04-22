@@ -1,5 +1,5 @@
 # gitskills
-Creating new branch is quick and simple.
+Creating new branch is quick and simple thing.
 Add merge.
 Add ff-merge.
 add ff-merge.
